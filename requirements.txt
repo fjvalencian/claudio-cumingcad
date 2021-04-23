@@ -1,0 +1,10 @@
+#Installed using pip:
+selenium==3.5.0
+PyMySQL==0.7.11
+mysql-connector-python
+
+#Installed using brew (for some reason pip would not install geckodriver on my fucking mac):
+# geckodriver
+
+#Browser:
+#Firefox Quantom 57.0.4 (64-bit)

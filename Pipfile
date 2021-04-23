@@ -1,0 +1,15 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+selenium = "==3.5.0"
+mysql-connector-python = "*"
+PyMySQL = "==0.7.11"
+requests = "*"
+
+[requires]
+python_version = "3.6"
